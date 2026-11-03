@@ -359,12 +359,12 @@ Basic selection (`if-else`) decides one of two outcomes, as in the coffee shop p
 
 ---
 
-## Hasil Uji Studi Kasus 2 oleh `<Nama Teman>`
-
-<!-- Appended by the invited friend (Experiment 4, step 4). Replace <Nama Teman> and fill at least 3 rows. -->
+## Hasil Uji Studi Kasus 2 oleh <Fauz Dino>
 
 | No | Jenis | Dokumen | Juara/Dana | Output | Sesuai? |
 |----|-------|---------|------------|---------|---------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+| 1 | BAKORMA | 3 | Juara 1 | Dokumen tidak lengkap (kurang 1 dokumen). Dana penghargaan tidak diberikan. | Ya |
+| 2 | Mandiri | 4 | 0 (bukan juara) | Bukan juara 1, 2, atau 3. Dana penghargaan tidak diberikan. | Ya |
+| 3 | PKM | 4 | 1 (didanai) | Dokumen lengkap. Dana penghargaan diberikan. | Ya |
+| 4 | PKM | 2 | 1 (didanai) | Dokumen tidak lengkap (kurang 2 dokumen). Dana penghargaan tidak diberikan. | Ya |
+| 5 | Lainnya | - | - | Jenis kegiatan tidak termasuk kategori penerima dana penghargaan. | Ya |
